@@ -19,6 +19,12 @@ STEP 5:Include Necessary parameters in each functions.
 
 ## CODING AND OUTPUT:
 
+```
+Program developed by
+Name : Kalaiselvan J
+Reg no : 212223080022
+```
+
 ### PLOTTING THE LINE GRAPHS:
 ```python
 import matplotlib.pyplot as plt
